@@ -1,7 +1,7 @@
 # Guide to use Lombok In Spring Boot
 
 <a href="https://javatodev.com/lombok-spring-boot/" target="blank">
-    <img align="center" src="https://javatodev.com/wp-content/uploads/2020/10/Guide-to-use-Lombok-In-Spring-Boot-800x450.png" alt="Guide to use Lombok In Spring Boot"/>
+    <img align="center" src="https://javatodev.com/wp-content/uploads/2020/10/Guide-to-use-Lombok-In-Spring-Boot-800x450.png" alt="Guide to use Lombok In Spring Boot"/></a>
 
 <p align="left">
 Project Lombok, one of the coolest java library which capable of minimizing your code. This is a plugin that we could configure with your editor and build tools. Then you would not have to worry about writing getters, setters, and much more boilerplate stuff you have to write in java classes. Here I’ll discuss how we can integrate Lombok with a Spring Boot application and ways to get use from it.
