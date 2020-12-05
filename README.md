@@ -1,29 +1,34 @@
 # Guide to use Lombok In Spring Boot
 
+<a href="https://javatodev.com/lombok-spring-boot/" target="blank">
+
+    <img align="center" src="https://javatodev.com/wp-content/uploads/2020/10/Guide-to-use-Lombok-In-Spring-Boot-800x450.png" alt="Guide to use Lombok In Spring Boot"/>
+
 <p align="left">
 Project Lombok, one of the coolest java library which capable of minimizing your code. This is a plugin that we could configure with your editor and build tools. Then you would not have to worry about writing getters, setters, and much more boilerplate stuff you have to write in java classes. Here I’ll discuss how we can integrate Lombok with a Spring Boot application and ways to get use from it.
 
-Technologies Going to Use,
+Technologies Going to Use, 
 
-- Java 1.8
-- Spring Boot: 2.3.4.RELEASE
-- Lombok
-- Gradle
-- Intellij Idea for IDE
+* Java 1.8
+* Spring Boot: 2.3.4. RELEASE
+* Lombok
+* Gradle
+* Intellij Idea for IDE
 
-Main topics I’m going to discuss here,
+Main topics I’m going to discuss here, 
 
-- How Lombok Works?
-- Adding Required Dependencies
-- Practical Ways to Use Lombok
+* How Lombok Works?
+* Adding Required Dependencies
+* Practical Ways to Use Lombok
     - Using @Getter and @Setter In Lombok
     - @Data for Additional Methods
     - Lombok issue with first char lowerCase and next upperCase
-- How to Use Lombok with Spring Boot
+* How to Use Lombok with Spring Boot
     - Constructor Based Dependency Injection Using Lombok @RequiredArgsConstructor
     - @Slf4j in Lombok For Logging
     - Using @Slf4j Inside an Interface
-- Conclusion
+* Conclusion
+
 </p>
 
 📄 Original Tutorial [Guide to use Lombok In Spring Boot](https://javatodev.com/lombok-spring-boot/)
@@ -35,8 +40,10 @@ Related Articles
  - [Exception Handling Spring Boot REST API](https://javatodev.com/exception-handling-spring-boot/)
  - [Database Migration Using Flyway in Spring Boot](https://javatodev.com/flyway-spring-boot/)
 
-<h1 align="center">Hi 👋, I'm Chinthaka Dinadasa</h1>
-<h3 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h3>
+<h2>Author Profile</h2>
+
+<h3 align="center">Hi 👋, I'm Chinthaka Dinadasa</h3>
+<h5 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h5>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javatodev" alt="javatodev" /></a> </p> -->
 
@@ -44,13 +51,13 @@ Related Articles
 
 <!-- - 👨‍💻 All of my projects are available at [https://chinthaka-dinadasa.github.io/portofolio/](https://chinthaka-dinadasa.github.io/portofolio/) -->
 
-- 📝 I regularly write articles on [http://javatodev.com/](http://javatodev.com/)
+* 📝 I regularly write articles on [http://javatodev.com/](http://javatodev.com/)
 
-- 💬 Ask me about **Spring Boot, Java, Vue JS, Angular**
+* 💬 Ask me about **Spring Boot, Java, Vue JS, Angular**
 
-- 📫 How to reach me **author@javatodev.com**
+* 📫 How to reach me **author@javatodev.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/chinthakadinadasa/](https://www.linkedin.com/in/chinthakadinadasa/)
+* 📄 Know about my experiences [https://www.linkedin.com/in/chinthakadinadasa/](https://www.linkedin.com/in/chinthakadinadasa/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -67,6 +74,6 @@ Related Articles
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javatodev&show_icons=true&locale=en&layout=compact" alt="javatodev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javatodev&show_icons=true&locale=en" alt="javatodev" /></p>
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=javatodev&show_icons=true&locale=en" alt="javatodev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javatodev&" alt="javatodev" /></p>
