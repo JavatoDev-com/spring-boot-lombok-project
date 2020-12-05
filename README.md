@@ -16,13 +16,13 @@ Main topics I’m going to discuss here,
 - How Lombok Works?
 - Adding Required Dependencies
 - Practical Ways to Use Lombok
-- Using @Getter and @Setter In Lombok
-- @Data for Additional Methods
-- Lombok issue with first char lowerCase and next upperCase
+    - Using @Getter and @Setter In Lombok
+    - @Data for Additional Methods
+    - Lombok issue with first char lowerCase and next upperCase
 - How to Use Lombok with Spring Boot
-- Constructor Based Dependency Injection Using Lombok @RequiredArgsConstructor
-- - @Slf4j in Lombok For Logging
-- Using @Slf4j Inside an Interface
+    - Constructor Based Dependency Injection Using Lombok @RequiredArgsConstructor
+    - @Slf4j in Lombok For Logging
+    - Using @Slf4j Inside an Interface
 - Conclusion
 </p>
 
